@@ -1,4 +1,4 @@
-package com.educandoweb.course.resources.exceptions;
+package main.java.org.resources.exceptions;
 
 import java.io.Serializable;
 import java.time.Instant;
